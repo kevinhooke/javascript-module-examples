@@ -1,0 +1,1 @@
+const example = 'This is a constant';
